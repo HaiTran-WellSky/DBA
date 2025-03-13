@@ -1,7 +1,3 @@
--- testing blah blah blah
-select getdate();
-go
-
 use DBA
 
 if object_id('spExpandDbFile', N'P') is not null
