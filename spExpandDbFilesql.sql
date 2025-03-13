@@ -1,5 +1,5 @@
 -- testing blah blah blah
-select getdate()
+select getdate();
 go
 
 use DBA
