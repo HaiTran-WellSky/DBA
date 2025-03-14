@@ -1,4 +1,5 @@
 use DBA
+go
 
 if object_id('spExpandDbFile', N'P') is not null
   drop procedure spExpandDbFile;
