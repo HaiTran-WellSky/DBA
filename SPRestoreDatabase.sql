@@ -1,4 +1,4 @@
-USE master;
+USE master
 GO
 
 IF OBJECT_ID('SPRestoreDatabase', N'P') IS NOT NULL
